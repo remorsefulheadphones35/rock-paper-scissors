@@ -1,3 +1,5 @@
+# Make sure java is installed on your computer before running the file
+
 # About the game: 
 - Rock, Paper, Scissors plays by the player picking from Rock, Paper, Scissors. 
 - The Computer then randomly picks Rock, Paper, Scissors. 
